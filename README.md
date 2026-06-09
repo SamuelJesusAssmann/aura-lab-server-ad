@@ -36,4 +36,33 @@ Troubleshooting
 - Hyper-V virtual switch issues
 - Windows 11 TPM requirement
 - Remote Desktop Users permission
-- DNS configuration for domain join
+- DNS client configuration for Active Directory domain join
+
+
+## What's Next
+
+- [ ] Implement Group Policy
+- [ ] Configure DHCP
+- [ ] Deploy File Server
+- [ ] Configure NTFS permissions
+- [ ] Automate tasks with PowerShell
+
+
+## Repository Structure
+
+| Path | Description |
+|------|-------------|
+| `docs/` | Deployment and configuration guides |
+| `troubleshooting/` | Real-world problems and their solutions |
+| `scripts/` | Automation and administration scripts |
+| `diagrams/` | Lab architecture and network diagrams |
+| `images/` | Screenshots used throughout the documentation |
+| `README.md` | Project introduction and current status |
+
+
+## Notes
+
+This project is part of my journey from Technical Support to System Administration.
+
+Everything documented here is based on hands-on practice and real-world lab scenarios.
+
