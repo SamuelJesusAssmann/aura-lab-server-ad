@@ -5,7 +5,7 @@
 ![DNS](https://img.shields.io/badge/DNS-Configured-success)
 ![GPO](https://img.shields.io/badge/GPO-In_Progress-yellow)
 
-# Aura Lab
+# Server AD - Aura Lab
 
 A personal Windows Infrastructure and Active Directory lab built to develop practical System Administration skills.
 
