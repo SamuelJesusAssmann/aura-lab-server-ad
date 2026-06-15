@@ -66,3 +66,9 @@ This project is part of my journey from Technical Support to System Administrati
 
 Everything documented here is based on hands-on practice and real-world lab scenarios.
 
+## Related Projects
+
+🔗 [Aura Lab](https://github.com/SamuelJesusAssmann/Aura-Lab/))
+
+This repository is part of the Aura Lab infrastructure.
+
