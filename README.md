@@ -57,6 +57,8 @@ Troubleshooting
 | `scripts/` | Automation and administration scripts |
 | `diagrams/` | Lab architecture and network diagrams |
 | `images/` | Screenshots used throughout the documentation |
+| `research/` | Research notes, best practices, and infrastructure studies|
+| `projects/` | Documented implementations and practical lab projects |
 | `README.md` | Project introduction and current status |
 
 
